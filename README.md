@@ -4,7 +4,7 @@ To find the points in a data after we enter the range
 
 To run this file, we used google colab
 open google collab, upload the above files in a drive 
-then run the following lines in a notebook:
+then run the following lines in a notebook(for example check run.ipynb):
 
 
 from google.colab import drive
