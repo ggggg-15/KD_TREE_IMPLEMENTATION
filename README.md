@@ -1,4 +1,4 @@
-# KD_TREE_IMPLEMENTATION-
+# KD_TREE_IMPLEMENTATION
 To find the points in a data after we enter the range
 
 
